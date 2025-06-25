@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/prajaktaaaaaaaa/MERN_project_thinkboard/issues"
   },
-  "homepage": "https://github.com/prajaktaaaaaaaa/MERN_project_thinkboard#readme"
+  "homepage": "https://github.com/prajaktaaaaaaaa/MERN_project_thinkboard#readme",
+  "dependencies": {
+    "lucide-react": "^0.523.0"
+  }
 }
